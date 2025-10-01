@@ -1,4 +1,4 @@
-# 🐍 Python Autotests: Selenium & Allure для PokemonBattle 🚀
+# 🐍 Python Autotests: Selenium & Allure 🚀
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Selenium](https://img.shields.io/badge/Selenium-4.0+-green.svg)](https://selenium.dev/)
