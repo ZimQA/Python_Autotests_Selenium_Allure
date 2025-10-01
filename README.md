@@ -5,7 +5,7 @@
 [![Pytest](https://img.shields.io/badge/Pytest-Framework-orange.svg)](https://docs.pytest.org/)
 [![Allure](https://img.shields.io/badge/Allure-Reports-ff69b4.svg)](https://allurereport.org/)
 
-Набор автоматических тестов для веб-приложения PokemonBattle, включающий UI-тесты (Selenium WebDriver) и проверку API (requests). Проект настроен для генерации детальных отчетов в Allure Report.
+Набор автоматических тестов для веб-приложения, включающий UI-тесты (Selenium WebDriver) и проверку API (requests). Проект настроен для генерации детальных отчетов в Allure Report.
 
 ---
 
